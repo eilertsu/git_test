@@ -1,2 +1,4 @@
 Hello odin!
 
+i dag lærte jeg å sette opp ssh nøkkel og linke den med github.
+jeg har også lært meg de enkle git kommandoene selvom jeg må øve litt mer på de.
